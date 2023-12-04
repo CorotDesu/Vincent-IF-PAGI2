@@ -1,9 +1,168 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T14:28:27.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="LO2g_R6ChBaVBp8C5blC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T15:29:06.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bXFxtm0Dwp0-8wDqfIU_" version="22.1.5" type="github">
   <diagram name="Halaman-1" id="fISlve1KNCGOXRuVnE25">
-    <mxGraphModel>
+    <mxGraphModel dx="1499" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-2" value="Use Case 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-4" value="Pemesanan Makanan Minuman" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-6" value="Goal in Context&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-7" value="Memesan makanan dan minuman yang di inginkan" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-8" value="Primary Actor&amp;nbsp;&lt;br&gt;Secondary Actor&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-9" value="Customer&amp;nbsp;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(None)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-10" value="Typical Course of Events" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-11" value="Actor Action&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-12" value="System Response" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-13" value="1. Use case dimulai saat pelanggan mengscan barcode menu&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-14" value="2. Menampilkan menu makanan dan minuman&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-15" value="3. Memilih makanan dan minuman&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-17" value="4. Mengkonfirmasi pesanan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-18" value="5. Menyimpan riwayat pesanan kedalam database nomor meja customer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-21" value="Line 4a : apabila customer ingin melakukan perubahan pada pesanan, kembali ke line 3" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="605" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-22" value="Alternative Course of Events" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="565" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-23" value="Use Case 3" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-24" value="Pembayaran" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-25" value="Goal in Context&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-26" value="Membayar pesanan yang telah dikonfirmasi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-27" value="Primary Actor&amp;nbsp;&lt;br&gt;Secondary Actor&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-28" value="Customer&amp;nbsp;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(None)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-29" value="Typical Course of Events" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-30" value="Actor Action&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-31" value="System Response" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-32" value="1. Use case dimulai saat pelanggan selesai membuat pesanan&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-33" value="2. Menampilkan tagihan atas pesanan yang telah dibuat dan metode pembayaran&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="390" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-34" value="3. Melakukan pembayaran dengan metode pembayaran yang telah di sediakan sistem&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-35" value="4. Mengkonfirmasi pembayaran yang telah dilakukan oleh customer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-36" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-37" value="5. Mengirimkan data pesanan ke layar koki yang berada di kitchen sesuai dengan nomor meja customer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="890" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-38" value="Line 4a : Jika tagihan yang dibayarkan oleh customer tidak sesuai dengan jumlah yang tertera, kembali ke line 2 dan tampilkan pesan peringatan" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="605" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-39" value="Alternative Course of Events" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="565" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-57" value="Use Case 7" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-58" value="Logout" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-59" value="Goal in Context&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-60" value="Melakukan log out setelah proses CRUD&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-61" value="Primary Actor&amp;nbsp;&lt;br&gt;Secondary Actor&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-62" value="Admin&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(None)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-63" value="Typical Course of Events" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="290" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-64" value="Actor Action&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-65" value="System Response" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-66" value="1. Use case dimulai saat admin selesai melakukan CRUD pada sistem informasi restoran dan akan logout&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="390" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-67" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="390" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-68" value="2. Menyimpan hasil perubahan yang dilakukan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-69" value="3. Menyimpan dan mengupdate hasil perubahan yang dilakukan oleh admin&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-70" value="4. Menekan tombol log out setelah menyimpan perubahan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-71" value="5. Mengeluarkan user dari sistem&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-72" value="Line 4a: Jika user tidak menyimpan perubahan sebelum log out, menampilkan pesan peringatan bahwa perubahan belum disimpan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="605" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-73" value="Alternative Course of Events" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="565" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-74" value="Line 4a: Jika user tidak ingin menyimpan dan hanya ingin log out saja, lanjutkan ke line 5&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="665" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmjxt_RfoXU69dBz7IHu-75" value="Line 4a: Jika user ingin menyimpan perubahan, kembali ke line 2&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="720" width="440" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
